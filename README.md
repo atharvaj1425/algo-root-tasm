@@ -189,31 +189,31 @@ curl -X POST "http://localhost:4000/api/auth/register" \
 
 ### Register Page
 ```
-![Register Page](Screenshot (1).png)
+![Register Page](./Screenshot (1).png)
 ```
 
 ### Login Page
 ```
-![Login Page](Screenshot (42).png)
+![Login Page](./Screenshot (42).png)
 ```
 
 ### Add Task
 ```
-![Add Task](Screenshot (48).png)
+![Add Task](./Screenshot (48).png)
 ```
 
 ### Update Task
 ```
-![Update Task](Screenshot (168).png)
+![Update Task](./Screenshot (168).png)
 ```
 
 ### Delete Task
 ```
-![Delete Task](Screenshot (169).png)
+![Delete Task](./Screenshot (169).png)
 ```
 
 ### Get Tasks
 ```
-![Get Tasks](Screenshot (167).png)
+![Get Tasks](./Screenshot (167).png)
 ```
 
